@@ -1,9 +1,9 @@
 ---
 name: Bug report
 about: Create a report to help me fix bugs
-title: Bug
+title: ''
 labels: bug
-assignees: martigonzalezcobo
+assignees: martigonzalez
 
 ---
 
